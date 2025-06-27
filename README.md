@@ -4,7 +4,8 @@ Mini project to experiment with different dimensionality reduction techniques:
 1. Self Organizing Map
 
 ![download (1)](https://github.com/user-attachments/assets/7a47846e-e855-4707-b190-5abe5e9c7f6b)
-![sompic](https://github.com/user-attachments/assets/a357107f-b408-47e5-9375-2ed356238717)
+![som3](https://github.com/user-attachments/assets/39c8708b-6426-4186-901d-8f7933dabb6a)
+
 
 2. Restricted Bolzman Machine
 
