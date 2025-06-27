@@ -1,2 +1,9 @@
 # Dimensionality_Reduction
-Mini project to experiment with different dimensionality reduction techniques, including Self Organizing Map, Restricted Bolzman Machine, and Variational Autoencoder. 
+Mini project to experiment with different dimensionality reduction techniques: 
+
+1. Self Organizing Map
+   
+2. Restricted Bolzman Machine
+
+  
+3. Variational Autoencoder 
